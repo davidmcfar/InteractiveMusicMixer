@@ -6,6 +6,6 @@ Hello and welcome to our music mixer website! You can drag and make your own mus
 To launch it, just simply open the "index.html" in your browser of choice. Works best with google chrome!
 
 ## Devopler - David McFarlane
-## designer - Abdalrahman Abushammala 
+## Designer - Abdalrahman Abushammala 
 ## license - MIT
 
